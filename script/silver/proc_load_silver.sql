@@ -252,5 +252,3 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
-
-SELECT * FROM silver.crm_cust_info
